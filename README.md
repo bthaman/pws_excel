@@ -4,3 +4,5 @@ Downloads Public Water System (PWS) data from the TCEQ Drinking Water Watch webs
 * The user can download information for one or more PWSs at a time. PWSs are selected within a county.
 * Information downloaded includes sources, buyers, and sellers.
 * If available, latitude and longitude are downloaded for each well or intake, and aquifer is downloaded for each well
+
+<img src="https://latex.codecogs.com/png.latex?E&space;=&space;mc^{2}" title="E = mc^{2}" />
