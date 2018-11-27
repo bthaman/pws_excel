@@ -5,4 +5,3 @@ Downloads Public Water System (PWS) data from the TCEQ Drinking Water Watch webs
 * Information downloaded includes sources, buyers, and sellers.
 * If available, latitude and longitude are downloaded for each well or intake, and aquifer is downloaded for each well
 
-<img src="https://latex.codecogs.com/png.latex?E&space;=&space;mc^{2}" title="E = mc^{2}" />
