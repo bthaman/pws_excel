@@ -1,3 +1,8 @@
+'''
+Note: DataFrame .append method deprecated starting in Pandas 2.0.
+Last time I ran this (2/26/2024) I used Pandas 1.5.3
+'''
+
 import lxml.html
 import requests
 import pandas as pd

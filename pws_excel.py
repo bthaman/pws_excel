@@ -7,7 +7,7 @@ import msgbox
 
 
 @xw.sub
-def pws_names(cnty_name, sht_name='Sheet1', sort=True):
+def pws_names(cnty_name="Lubbock", sht_name='PWS_List', sort=True):
     sht = xw.Book.caller().sheets[sht_name]
     sht.book.app.screen_updating = False
     county_pws = CountyPWS()
