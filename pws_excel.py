@@ -1,7 +1,10 @@
 """
 author: bill thaman
 """
-from pws_list_v3 import *
+from pws_list_v3 import (
+    PWS_Detail, 
+    CountyPWS
+)
 import xlwings as xw
 import msgbox
 
